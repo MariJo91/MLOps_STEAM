@@ -139,7 +139,7 @@ Para optimizar el proceso de implementación, opté por Render, una plataforma e
 
 4.3 Aprovechando GitHub para una Integración Fluida
 
-Dadas las limitaciones de almacenamiento del servicio gratuito de Render, creé un repositorio dedicado específicamente para fines de implementación. Este repositorio se puede encontrar en el siguiente enlace: https://github.com/MariJo91/Proyecto_MLOps_Steam.git
+Dadas las limitaciones de almacenamiento del servicio gratuito de Render, creé un repositorio dedicado específicamente para fines de implementación. Este repositorio se puede encontrar en el siguiente enlace: https://github.com/MariJo91/MLOps_STEAM.git
 
 #### 5. Video Explicativo: Desmitificando la Magia
 
